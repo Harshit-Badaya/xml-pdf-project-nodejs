@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form>
+   <field name="name">John Doe</field>
+   <field name="email">john.doe@example.com</field>
+   <field name="phone">123-456-7890</field>
+   <field name="address">123 Main St</field>
+   <field name="city">Springfield</field>
+   <field name="state">IL</field>
+   <field name="zip">62701</field>
+   <field name="country">USA</field>
+   <field name="dob">1990-01-01</field>
+   <field name="gender">Male</field>
+</form>

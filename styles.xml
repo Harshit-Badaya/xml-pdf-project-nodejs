@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles>
+   <style element="name" font="Helvetica" size="12" color="black"/>
+   <style element="email" font="Helvetica" size="12" color="blue"/>
+   <style element="phone" font="Helvetica" size="12" color="green"/>
+   <style element="address" font="Helvetica" size="12" color="red"/>
+   <style element="city" font="Helvetica" size="12" color="purple"/>
+   <style element="state" font="Helvetica" size="12" color="orange"/>
+   <style element="zip" font="Helvetica" size="12" color="brown"/>
+   <style element="country" font="Helvetica" size="12" color="cyan"/>
+   <style element="dob" font="Helvetica" size="12" color="magenta"/>
+   <style element="gender" font="Helvetica" size="12" color="gray"/>
+</styles>
